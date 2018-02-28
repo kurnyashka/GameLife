@@ -1,0 +1,18 @@
+C:\Users\Natasha\Desktop\Projects\Life\LIFEPLUS\LIFEPLUS\bin\Debug\LIFEPLUS.exe.config
+C:\Users\Natasha\Desktop\Projects\Life\LIFEPLUS\LIFEPLUS\bin\Debug\LIFEPLUS.exe
+C:\Users\Natasha\Desktop\Projects\Life\LIFEPLUS\LIFEPLUS\bin\Debug\LIFEPLUS.pdb
+C:\Users\Natasha\Desktop\Projects\Life\LIFEPLUS\LIFEPLUS\obj\Debug\LIFEPLUS.csprojResolveAssemblyReference.cache
+C:\Users\Natasha\Desktop\Projects\Life\LIFEPLUS\LIFEPLUS\obj\Debug\LIFEPLUS.Form1.resources
+C:\Users\Natasha\Desktop\Projects\Life\LIFEPLUS\LIFEPLUS\obj\Debug\LIFEPLUS.Properties.Resources.resources
+C:\Users\Natasha\Desktop\Projects\Life\LIFEPLUS\LIFEPLUS\obj\Debug\LIFEPLUS.csproj.GenerateResource.Cache
+C:\Users\Natasha\Desktop\Projects\Life\LIFEPLUS\LIFEPLUS\obj\Debug\LIFEPLUS.exe
+C:\Users\Natasha\Desktop\Projects\Life\LIFEPLUS\LIFEPLUS\obj\Debug\LIFEPLUS.pdb
+C:\Users\Natasha\Desktop\Projects\1 КУРС\Life\LIFEPLUS\LIFEPLUS\bin\Debug\LIFEPLUS.exe.config
+C:\Users\Natasha\Desktop\Projects\1 КУРС\Life\LIFEPLUS\LIFEPLUS\obj\Debug\LIFEPLUS.exe
+C:\Users\Natasha\Desktop\Projects\1 КУРС\Life\LIFEPLUS\LIFEPLUS\obj\Debug\LIFEPLUS.pdb
+C:\Users\Natasha\Desktop\Projects\1 КУРС\Life\LIFEPLUS\LIFEPLUS\bin\Debug\LIFEPLUS.exe
+C:\Users\Natasha\Desktop\Projects\1 КУРС\Life\LIFEPLUS\LIFEPLUS\bin\Debug\LIFEPLUS.pdb
+C:\Users\Natasha\Desktop\Projects\1 КУРС\Life\LIFEPLUS\LIFEPLUS\obj\Debug\LIFEPLUS.csprojResolveAssemblyReference.cache
+C:\Users\Natasha\Desktop\Projects\1 КУРС\Life\LIFEPLUS\LIFEPLUS\obj\Debug\LIFEPLUS.Form1.resources
+C:\Users\Natasha\Desktop\Projects\1 КУРС\Life\LIFEPLUS\LIFEPLUS\obj\Debug\LIFEPLUS.Properties.Resources.resources
+C:\Users\Natasha\Desktop\Projects\1 КУРС\Life\LIFEPLUS\LIFEPLUS\obj\Debug\LIFEPLUS.csproj.GenerateResource.Cache
